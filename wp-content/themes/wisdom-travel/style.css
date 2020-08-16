@@ -1,0 +1,47 @@
+/*
+Theme Name:   Wisdom Travel
+Theme URI:    https://codevibrant.com/wpthemes/wisdom-travel/
+Author:       CodeVibrant
+Author URI:   https://codevibrant.com/
+Description:  Wisdom Travel is the child theme of Wisdom Blog which is Clean & Personal Blog Theme from CodeVibrant! Fully responsive design displays beautifully across desktop, mobile and all devices. Easy installation allows you to start post blogs immediately after the activation. Theme supported Customizer which allows you to customize and change design of your blog. Perfect choice for your personal blog, corporate blog, marketing blog, authority blog or any type of creative blog.
+Version:      1.0.0
+License:      GNU General Public License v3 or later
+License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+Template:     wisdom-blog
+Text Domain:  wisdom-travel
+Tags:         blog, portfolio, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-logo, custom-menu, featured-image-header, threaded-comments, sticky-post, theme-options, translation-ready
+
+*/
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Lora', serif;
+}
+
+.home #masthead {
+	padding-bottom: 0;
+}
+
+#site-navigation ul li a {
+	font-weight: 400;
+}
+
+.cv-banner-wrapper {
+	float: none;
+	width: 100vw;
+	margin-left: -50vw;
+	margin-right: -100%;
+	position: relative;
+	left: 50%;
+}
+
+.banner-content {
+	width: 50%;
+}
+
+.banner-title {
+	font-weight: 400;
+}
+
+.entry-title {
+	font-weight: 400;
+}
